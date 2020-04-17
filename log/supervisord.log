@@ -1,0 +1,88 @@
+2020-04-17 01:08:30,524 CRIT Set uid to user 999
+2020-04-17 01:08:30,533 INFO supervisord started with pid 1
+2020-04-17 01:08:31,546 INFO spawned: 'genieacs-cwmp' with pid 9
+2020-04-17 01:08:31,573 INFO spawned: 'genieacs-fs' with pid 11
+2020-04-17 01:08:31,618 INFO spawned: 'genieacs-nbi' with pid 13
+2020-04-17 01:08:31,673 INFO spawned: 'genieacs-ui' with pid 15
+2020-04-17 01:08:31,684 INFO exited: genieacs-cwmp (exit status 127; not expected)
+2020-04-17 01:08:31,688 INFO exited: genieacs-fs (exit status 127; not expected)
+2020-04-17 01:08:31,695 INFO exited: genieacs-nbi (exit status 127; not expected)
+2020-04-17 01:08:31,700 INFO exited: genieacs-ui (exit status 127; not expected)
+2020-04-17 01:08:32,711 INFO spawned: 'genieacs-cwmp' with pid 17
+2020-04-17 01:08:32,720 INFO spawned: 'genieacs-fs' with pid 19
+2020-04-17 01:08:32,756 INFO spawned: 'genieacs-nbi' with pid 21
+2020-04-17 01:08:32,793 INFO spawned: 'genieacs-ui' with pid 23
+2020-04-17 01:08:32,801 INFO exited: genieacs-cwmp (exit status 127; not expected)
+2020-04-17 01:08:32,818 INFO exited: genieacs-fs (exit status 127; not expected)
+2020-04-17 01:08:32,824 INFO exited: genieacs-nbi (exit status 127; not expected)
+2020-04-17 01:08:32,828 INFO exited: genieacs-ui (exit status 127; not expected)
+2020-04-17 01:08:34,841 INFO spawned: 'genieacs-cwmp' with pid 25
+2020-04-17 01:08:34,853 INFO spawned: 'genieacs-fs' with pid 27
+2020-04-17 01:08:34,864 INFO spawned: 'genieacs-nbi' with pid 28
+2020-04-17 01:08:34,872 INFO spawned: 'genieacs-ui' with pid 30
+2020-04-17 01:08:34,875 INFO exited: genieacs-cwmp (exit status 127; not expected)
+2020-04-17 01:08:34,881 INFO exited: genieacs-fs (exit status 127; not expected)
+2020-04-17 01:08:34,885 INFO exited: genieacs-nbi (exit status 127; not expected)
+2020-04-17 01:08:34,893 INFO exited: genieacs-ui (exit status 127; not expected)
+2020-04-17 01:08:37,904 INFO spawned: 'genieacs-cwmp' with pid 33
+2020-04-17 01:08:37,917 INFO spawned: 'genieacs-fs' with pid 35
+2020-04-17 01:08:37,930 INFO spawned: 'genieacs-nbi' with pid 37
+2020-04-17 01:08:37,939 INFO spawned: 'genieacs-ui' with pid 38
+2020-04-17 01:08:37,942 INFO exited: genieacs-cwmp (exit status 127; not expected)
+2020-04-17 01:08:37,945 INFO exited: genieacs-fs (exit status 127; not expected)
+2020-04-17 01:08:37,950 INFO gave up: genieacs-cwmp entered FATAL state, too many start retries too quickly
+2020-04-17 01:08:37,951 INFO gave up: genieacs-fs entered FATAL state, too many start retries too quickly
+2020-04-17 01:08:37,953 INFO exited: genieacs-nbi (exit status 127; not expected)
+2020-04-17 01:08:37,964 INFO gave up: genieacs-nbi entered FATAL state, too many start retries too quickly
+2020-04-17 01:08:37,967 INFO exited: genieacs-ui (exit status 127; not expected)
+2020-04-17 01:08:38,970 INFO gave up: genieacs-ui entered FATAL state, too many start retries too quickly
+2020-04-17 01:39:05,503 CRIT Set uid to user 999
+2020-04-17 01:39:05,523 INFO supervisord started with pid 55
+2020-04-17 01:39:06,535 INFO spawned: 'genieacs-cwmp' with pid 58
+2020-04-17 01:39:06,546 INFO spawned: 'genieacs-fs' with pid 59
+2020-04-17 01:39:06,586 INFO spawned: 'genieacs-nbi' with pid 62
+2020-04-17 01:39:06,601 INFO spawned: 'genieacs-ui' with pid 63
+2020-04-17 01:39:06,612 INFO exited: genieacs-cwmp (exit status 127; not expected)
+2020-04-17 01:39:06,627 INFO exited: genieacs-fs (exit status 127; not expected)
+2020-04-17 01:39:06,641 INFO exited: genieacs-nbi (exit status 127; not expected)
+2020-04-17 01:39:06,654 INFO exited: genieacs-ui (exit status 127; not expected)
+2020-04-17 01:39:07,666 INFO spawned: 'genieacs-cwmp' with pid 66
+2020-04-17 01:39:07,681 INFO spawned: 'genieacs-fs' with pid 68
+2020-04-17 01:39:07,693 INFO spawned: 'genieacs-nbi' with pid 69
+2020-04-17 01:39:07,710 INFO spawned: 'genieacs-ui' with pid 72
+2020-04-17 01:39:07,717 INFO exited: genieacs-cwmp (exit status 127; not expected)
+2020-04-17 01:39:07,728 INFO exited: genieacs-fs (exit status 127; not expected)
+2020-04-17 01:39:07,741 INFO exited: genieacs-nbi (exit status 127; not expected)
+2020-04-17 01:39:07,748 INFO exited: genieacs-ui (exit status 127; not expected)
+2020-04-17 01:39:09,772 INFO spawned: 'genieacs-cwmp' with pid 74
+2020-04-17 01:39:09,785 INFO spawned: 'genieacs-fs' with pid 75
+2020-04-17 01:39:09,796 INFO spawned: 'genieacs-nbi' with pid 77
+2020-04-17 01:39:09,811 INFO spawned: 'genieacs-ui' with pid 79
+2020-04-17 01:39:09,822 INFO exited: genieacs-cwmp (exit status 127; not expected)
+2020-04-17 01:39:09,825 INFO exited: genieacs-fs (exit status 127; not expected)
+2020-04-17 01:39:09,842 INFO exited: genieacs-nbi (exit status 127; not expected)
+2020-04-17 01:39:09,848 INFO exited: genieacs-ui (exit status 127; not expected)
+2020-04-17 01:39:12,863 INFO spawned: 'genieacs-cwmp' with pid 82
+2020-04-17 01:39:12,877 INFO spawned: 'genieacs-fs' with pid 84
+2020-04-17 01:39:12,891 INFO spawned: 'genieacs-nbi' with pid 85
+2020-04-17 01:39:12,904 INFO spawned: 'genieacs-ui' with pid 87
+2020-04-17 01:39:12,907 INFO exited: genieacs-cwmp (exit status 127; not expected)
+2020-04-17 01:39:12,919 INFO exited: genieacs-fs (exit status 127; not expected)
+2020-04-17 01:39:12,929 INFO gave up: genieacs-cwmp entered FATAL state, too many start retries too quickly
+2020-04-17 01:39:12,933 INFO gave up: genieacs-fs entered FATAL state, too many start retries too quickly
+2020-04-17 01:39:12,944 INFO exited: genieacs-nbi (exit status 127; not expected)
+2020-04-17 01:39:12,951 INFO exited: genieacs-ui (exit status 127; not expected)
+2020-04-17 01:39:13,954 INFO gave up: genieacs-nbi entered FATAL state, too many start retries too quickly
+2020-04-17 01:39:13,956 INFO gave up: genieacs-ui entered FATAL state, too many start retries too quickly
+2020-04-17 01:39:46,056 WARN received SIGINT indicating exit request
+2020-04-17 01:41:34,759 WARN received SIGTERM indicating exit request
+2020-04-17 01:44:10,805 CRIT Set uid to user 999
+2020-04-17 01:44:10,834 INFO supervisord started with pid 1
+2020-04-17 01:44:11,842 INFO spawned: 'genieacs-cwmp' with pid 9
+2020-04-17 01:44:11,865 INFO spawned: 'genieacs-fs' with pid 10
+2020-04-17 01:44:11,882 INFO spawned: 'genieacs-nbi' with pid 11
+2020-04-17 01:44:11,903 INFO spawned: 'genieacs-ui' with pid 13
+2020-04-17 01:44:12,997 INFO success: genieacs-cwmp entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-17 01:44:13,031 INFO success: genieacs-fs entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-17 01:44:13,049 INFO success: genieacs-nbi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-17 01:44:13,071 INFO success: genieacs-ui entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

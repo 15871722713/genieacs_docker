@@ -1,0 +1,20 @@
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+/usr/bin/run_with_env.sh: line 10: /opt/genieacs/dist/bin/genieacs-cwmp: No such file or directory
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+/usr/bin/run_with_env.sh: line 10: /opt/genieacs/dist/bin/genieacs-cwmp: No such file or directory
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+/usr/bin/run_with_env.sh: line 10: /opt/genieacs/dist/bin/genieacs-cwmp: No such file or directory
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+/usr/bin/run_with_env.sh: line 10: /opt/genieacs/dist/bin/genieacs-cwmp: No such file or directory
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+/usr/bin/run_with_env.sh: line 10: /opt/genieacs/dist/bin/genieacs-cwmp: No such file or directory
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+/usr/bin/run_with_env.sh: line 10: /opt/genieacs/dist/bin/genieacs-cwmp: No such file or directory
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+/usr/bin/run_with_env.sh: line 10: /opt/genieacs/dist/bin/genieacs-cwmp: No such file or directory
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+/usr/bin/run_with_env.sh: line 10: /opt/genieacs/dist/bin/genieacs-cwmp: No such file or directory
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+2020-04-17T01:44:14.282Z [INFO] genieacs-cwmp starting; pid=14 version="1.2.0-beta.0+20200417014258"
+2020-04-17T01:44:17.220Z [INFO] Worker listening; pid=81 address="0.0.0.0" port=7547
+2020-04-17T01:44:17.247Z [INFO] Worker listening; pid=83 address="0.0.0.0" port=7547

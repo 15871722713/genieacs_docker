@@ -1,0 +1,13 @@
+2020-04-17T01:44:36.791Z [INFO] admin@172.19.0.1: Count devices; filter="Events.Inform > 1587087576470" count=1
+2020-04-17T01:44:36.795Z [INFO] admin@172.19.0.1: Count devices; filter="Events.Inform < 1587001176470" count=0
+2020-04-17T01:44:36.809Z [INFO] admin@172.19.0.1: Count devices; filter="Events.Inform > 1587001176470 AND Events.Inform < 1587087576470" count=0
+2020-04-17T01:44:38.787Z [INFO] admin@172.19.0.1: Query devices; filter="true" limit=1 skip=9 sort={"DeviceID.ID":1} projection={"DeviceID.ID":1}
+2020-04-17T01:44:38.791Z [INFO] admin@172.19.0.1: Count devices; filter="true" count=1
+2020-04-17T01:44:38.828Z [INFO] admin@172.19.0.1: Query devices; filter="true"
+2020-04-17T01:44:40.347Z [INFO] admin@172.19.0.1: Count faults; filter="true" count=0
+2020-04-17T01:44:40.360Z [INFO] admin@172.19.0.1: Query faults; filter="true" limit=1 skip=9 sort={"_id":1} projection={"_id":1}
+2020-04-17T01:44:40.415Z [INFO] admin@172.19.0.1: Query faults; filter="true"
+2020-04-17T01:44:41.247Z [INFO] admin@172.19.0.1: Count presets; filter="true" count=3
+2020-04-17T01:44:41.276Z [INFO] admin@172.19.0.1: Query presets; filter="true" limit=1 skip=9 sort={"_id":1} projection={"_id":1,"configurations":1}
+2020-04-17T01:44:41.301Z [INFO] admin@172.19.0.1: Query presets; filter="true"
+2020-04-17T01:44:41.322Z [INFO] admin@172.19.0.1: Query provisions; filter="true"
