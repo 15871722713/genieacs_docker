@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y sudo supervisor
 RUN mkdir -p /var/log/supervisor
 
 WORKDIR /opt
-COPY genieacs_code /opt/genieacs/
+COPY genieacs /opt/genieacs/
 #RUN git clone https://github.com/15871722713/genieacs.git -b master
 WORKDIR /opt/genieacs
 RUN npm install

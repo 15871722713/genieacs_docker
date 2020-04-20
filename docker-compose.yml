@@ -11,8 +11,7 @@ services:
             - MONGO_DATA_DIR=/data/db
             - MONGO_LOG_DIR=/var/log/mongodb
         volumes:
-            - ./data/db:/data/db
-            - ./data/config:/data/configdb
+            - ./log:/var/log/mongodb
         expose:
             - 27017
         networks:
@@ -25,7 +24,9 @@ services:
         # image: drumsergio/genieacs:1.2.0
         restart: always
         container_name: "genieacs"
-        build: ./genieacs
+        build:
+            context: .
+            dockerfile: Dockerfile
         environment:
             - GENIEACS_UI_JWT_SECRET=changeme
             - GENIEACS_CWMP_ACCESS_LOG_FILE=/var/log/genieacs/genieacs-cwmp-access.log
