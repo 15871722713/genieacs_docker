@@ -18,3 +18,13 @@
 2020-04-17T01:44:13.724Z [INFO] genieacs-nbi starting; pid=15 version="1.2.0-beta.0+20200417014258"
 2020-04-17T01:44:16.667Z [INFO] Worker listening; pid=63 address="0.0.0.0" port=7557
 2020-04-17T01:44:16.778Z [INFO] Worker listening; pid=64 address="0.0.0.0" port=7557
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+2020-04-17T07:33:04.822Z [INFO] genieacs-nbi starting; pid=245 version="1.2.0-beta.0+20200417014258"
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+2020-04-18T01:10:10.696Z [INFO] genieacs-nbi starting; pid=15 version="1.2.0-beta.0+20200417014258"
+2020-04-18T01:10:12.409Z [INFO] Worker listening; pid=63 address="0.0.0.0" port=7557
+2020-04-18T01:10:12.558Z [INFO] Worker listening; pid=68 address="0.0.0.0" port=7557
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+2020-04-20T02:26:34.538Z [INFO] genieacs-nbi starting; pid=13 version="1.2.0-beta.0+20200417014258"
+2020-04-20T02:26:36.277Z [INFO] Worker listening; pid=63 address="0.0.0.0" port=7557
+2020-04-20T02:26:36.321Z [INFO] Worker listening; pid=68 address="0.0.0.0" port=7557

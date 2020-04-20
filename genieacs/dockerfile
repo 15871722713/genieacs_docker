@@ -4,14 +4,15 @@
 FROM node:10-buster
 LABEL maintainer="JinHua"
 
-COPY sources.list /etc/apt/sources.list
-RUN apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 40976EAF437D05B5
-RUN apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 3B4FE6ACC0B21F32
-RUN apt-get update && apt-get install -y sudo supervisor git
+#COPY sources.list /etc/apt/sources.list
+#RUN apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 40976EAF437D05B5
+#RUN apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 3B4FE6ACC0B21F32
+RUN apt-get update && apt-get install -y sudo supervisor
 RUN mkdir -p /var/log/supervisor
 
 WORKDIR /opt
-COPY genieacs /opt/genieacs/
+COPY genieacs_code /opt/genieacs/
+#RUN git clone https://github.com/15871722713/genieacs.git -b master
 WORKDIR /opt/genieacs
 RUN npm install
 RUN npm run build

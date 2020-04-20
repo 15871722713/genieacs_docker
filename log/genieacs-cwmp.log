@@ -18,3 +18,13 @@
 2020-04-17T01:44:14.282Z [INFO] genieacs-cwmp starting; pid=14 version="1.2.0-beta.0+20200417014258"
 2020-04-17T01:44:17.220Z [INFO] Worker listening; pid=81 address="0.0.0.0" port=7547
 2020-04-17T01:44:17.247Z [INFO] Worker listening; pid=83 address="0.0.0.0" port=7547
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+2020-04-17T07:33:04.858Z [INFO] genieacs-cwmp starting; pid=230 version="1.2.0-beta.0+20200417014258"
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+2020-04-18T01:10:10.742Z [INFO] genieacs-cwmp starting; pid=13 version="1.2.0-beta.0+20200417014258"
+2020-04-18T01:10:12.597Z [INFO] Worker listening; pid=69 address="0.0.0.0" port=7547
+2020-04-18T01:10:12.620Z [INFO] Worker listening; pid=81 address="0.0.0.0" port=7547
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+2020-04-20T02:26:34.587Z [INFO] genieacs-cwmp starting; pid=14 version="1.2.0-beta.0+20200417014258"
+2020-04-20T02:26:36.350Z [INFO] Worker listening; pid=70 address="0.0.0.0" port=7547
+2020-04-20T02:26:36.375Z [INFO] Worker listening; pid=77 address="0.0.0.0" port=7547

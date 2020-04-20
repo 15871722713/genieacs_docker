@@ -18,3 +18,13 @@
 2020-04-17T01:44:14.819Z [INFO] genieacs-ui starting; pid=26 version="1.2.0-beta.0+20200417014258"
 2020-04-17T01:44:17.586Z [INFO] Worker listening; pid=99 address="0.0.0.0" port=3000
 2020-04-17T01:44:17.588Z [INFO] Worker listening; pid=100 address="0.0.0.0" port=3000
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+2020-04-17T07:33:05.816Z [INFO] genieacs-ui starting; pid=254 version="1.2.0-beta.0+20200417014258"
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+2020-04-18T01:10:11.677Z [INFO] genieacs-ui starting; pid=16 version="1.2.0-beta.0+20200417014258"
+2020-04-18T01:10:12.974Z [INFO] Worker listening; pid=104 address="0.0.0.0" port=3000
+2020-04-18T01:10:13.014Z [INFO] Worker listening; pid=103 address="0.0.0.0" port=3000
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+2020-04-20T02:26:35.589Z [INFO] genieacs-ui starting; pid=16 version="1.2.0-beta.0+20200417014258"
+2020-04-20T02:26:36.743Z [INFO] Worker listening; pid=107 address="0.0.0.0" port=3000
+2020-04-20T02:26:36.773Z [INFO] Worker listening; pid=108 address="0.0.0.0" port=3000

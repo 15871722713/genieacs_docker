@@ -18,3 +18,13 @@
 2020-04-17T01:44:13.520Z [INFO] genieacs-fs starting; pid=12 version="1.2.0-beta.0+20200417014258"
 2020-04-17T01:44:16.162Z [INFO] Worker listening; pid=45 address="0.0.0.0" port=7567
 2020-04-17T01:44:16.263Z [INFO] Worker listening; pid=46 address="0.0.0.0" port=7567
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+2020-04-17T07:33:04.458Z [INFO] genieacs-fs starting; pid=238 version="1.2.0-beta.0+20200417014258"
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+2020-04-18T01:10:10.436Z [INFO] genieacs-fs starting; pid=14 version="1.2.0-beta.0+20200417014258"
+2020-04-18T01:10:11.764Z [INFO] Worker listening; pid=45 address="0.0.0.0" port=7567
+2020-04-18T01:10:12.052Z [INFO] Worker listening; pid=51 address="0.0.0.0" port=7567
+/usr/bin/run_with_env.sh: line 7: /opt/genieacs/genieacs.env: No such file or directory
+2020-04-20T02:26:34.250Z [INFO] genieacs-fs starting; pid=15 version="1.2.0-beta.0+20200417014258"
+2020-04-20T02:26:35.692Z [INFO] Worker listening; pid=46 address="0.0.0.0" port=7567
+2020-04-20T02:26:35.807Z [INFO] Worker listening; pid=45 address="0.0.0.0" port=7567

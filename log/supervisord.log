@@ -86,3 +86,58 @@
 2020-04-17 01:44:13,031 INFO success: genieacs-fs entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2020-04-17 01:44:13,049 INFO success: genieacs-nbi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2020-04-17 01:44:13,071 INFO success: genieacs-ui entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-17 07:33:02,036 CRIT Set uid to user 999
+2020-04-17 07:33:02,057 INFO supervisord started with pid 226
+2020-04-17 07:33:03,117 INFO spawned: 'genieacs-cwmp' with pid 229
+2020-04-17 07:33:03,146 INFO spawned: 'genieacs-fs' with pid 236
+2020-04-17 07:33:03,187 INFO spawned: 'genieacs-nbi' with pid 239
+2020-04-17 07:33:03,223 INFO spawned: 'genieacs-ui' with pid 246
+2020-04-17 07:33:04,290 INFO success: genieacs-cwmp entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-17 07:33:04,291 INFO success: genieacs-fs entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-17 07:33:04,293 INFO success: genieacs-nbi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-17 07:33:04,302 INFO success: genieacs-ui entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-17 07:33:05,945 WARN received SIGINT indicating exit request
+2020-04-17 07:33:05,954 INFO waiting for genieacs-cwmp, genieacs-fs, genieacs-nbi, genieacs-ui to die
+2020-04-17 07:33:06,181 INFO stopped: genieacs-ui (terminated by SIGTERM)
+2020-04-17 07:33:06,347 INFO stopped: genieacs-nbi (terminated by SIGTERM)
+2020-04-17 07:33:06,351 WARN received SIGINT indicating exit request
+2020-04-17 07:33:06,358 INFO stopped: genieacs-fs (terminated by SIGTERM)
+2020-04-17 07:33:06,524 INFO stopped: genieacs-cwmp (terminated by SIGTERM)
+2020-04-17 07:33:07,704 INFO reaped unknown pid 238
+2020-04-17 07:33:07,768 INFO reaped unknown pid 265
+2020-04-17 07:33:08,305 INFO reaped unknown pid 245
+2020-04-17 07:33:08,409 INFO reaped unknown pid 291
+2020-04-17 07:33:08,443 INFO reaped unknown pid 230
+2020-04-17 07:33:08,482 INFO reaped unknown pid 288
+2020-04-17 07:33:09,451 INFO reaped unknown pid 341
+2020-04-17 07:33:09,708 INFO reaped unknown pid 254
+2020-04-17 07:33:09,721 INFO reaped unknown pid 319
+2020-04-17 07:33:10,045 INFO reaped unknown pid 364
+2020-04-17 07:33:10,080 INFO reaped unknown pid 371
+2020-04-17 07:33:10,601 INFO reaped unknown pid 390
+2020-04-18 01:10:08,101 CRIT Set uid to user 999
+2020-04-18 01:10:08,114 INFO supervisord started with pid 1
+2020-04-18 01:10:09,125 INFO spawned: 'genieacs-cwmp' with pid 9
+2020-04-18 01:10:09,134 INFO spawned: 'genieacs-fs' with pid 10
+2020-04-18 01:10:09,149 INFO spawned: 'genieacs-nbi' with pid 11
+2020-04-18 01:10:09,161 INFO spawned: 'genieacs-ui' with pid 12
+2020-04-18 01:10:10,210 INFO success: genieacs-cwmp entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-18 01:10:10,212 INFO success: genieacs-fs entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-18 01:10:10,213 INFO success: genieacs-nbi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-18 01:10:10,214 INFO success: genieacs-ui entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-20 02:26:31,825 CRIT Set uid to user 999
+2020-04-20 02:26:31,841 INFO supervisord started with pid 1
+2020-04-20 02:26:32,861 INFO spawned: 'genieacs-cwmp' with pid 9
+2020-04-20 02:26:32,879 INFO spawned: 'genieacs-fs' with pid 10
+2020-04-20 02:26:32,894 INFO spawned: 'genieacs-nbi' with pid 11
+2020-04-20 02:26:32,911 INFO spawned: 'genieacs-ui' with pid 12
+2020-04-20 02:26:33,963 INFO success: genieacs-cwmp entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-20 02:26:33,965 INFO success: genieacs-fs entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-20 02:26:33,967 INFO success: genieacs-nbi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-20 02:26:33,969 INFO success: genieacs-ui entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-04-20 02:30:28,813 WARN received SIGTERM indicating exit request
+2020-04-20 02:30:28,815 INFO waiting for genieacs-cwmp, genieacs-fs, genieacs-nbi, genieacs-ui to die
+2020-04-20 02:30:29,819 INFO stopped: genieacs-ui (terminated by SIGTERM)
+2020-04-20 02:30:29,821 INFO stopped: genieacs-nbi (terminated by SIGTERM)
+2020-04-20 02:30:29,824 INFO stopped: genieacs-fs (terminated by SIGTERM)
+2020-04-20 02:30:29,826 INFO stopped: genieacs-cwmp (terminated by SIGTERM)
